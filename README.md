@@ -55,7 +55,7 @@ Solved_Assignment/
 
 ### 🔹 Sample Dataset / Work
 
-![Dataset](images/sample-dataset.png)
+![Dataset](images/visualize.png)
 
 ---
 
