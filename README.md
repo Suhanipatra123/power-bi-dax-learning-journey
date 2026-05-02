@@ -57,6 +57,11 @@ Solved_Assignment/
 
 ![Dataset](images/visualize.png)
 
+### 🔹 Sample Report_page / Work
+
+![Dataset](images/report_page.png)
+
+
 ---
 
 ## 📄 Learning Summary
